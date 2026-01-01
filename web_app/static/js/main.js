@@ -66,7 +66,7 @@ class AutoJudgeApp {
         const githubBtn = document.getElementById('github-btn');
         if (githubBtn) {
             githubBtn.addEventListener('click', () => {
-                window.open('https://github.com/yourusername/AutoJudge', '_blank');
+                window.open('https://github.com/YagnikMaru/ACM-Project', '_blank');
             });
         }
     }
